@@ -27,12 +27,14 @@ A passionate **Full Stack Software Developer** from Indonesia 🇮🇩
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black)
 ![NextJS](https://img.shields.io/badge/nextjs-%2361DAFB.svg?style=for-the-badge\&logo=nextjs\&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ### Mobile
 
 ![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black)
+![React Native](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 
 ### Backend
 
@@ -45,6 +47,8 @@ A passionate **Full Stack Software Developer** from Indonesia 🇮🇩
 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge\&logo=firebase\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### DevOps & Tools
 
