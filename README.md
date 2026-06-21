@@ -34,7 +34,7 @@ A passionate **Full Stack Software Developer** from Indonesia 🇮🇩
 ### Mobile
 
 ![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black)
-![React Native](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 
 ### Backend
 
@@ -47,7 +47,7 @@ A passionate **Full Stack Software Developer** from Indonesia 🇮🇩
 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge\&logo=firebase\&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### DevOps & Tools
