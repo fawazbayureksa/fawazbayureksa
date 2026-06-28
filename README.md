@@ -3,22 +3,36 @@
 <img src="./banner2.png" alt="Fawwaz Bayureksa" width="auto" style="border-radius:15px" />
 
 Hi 👋, I'm **Fawwaz Bayureksa**
-A passionate **Full Stack Software Developer | Laravel Specialist | React & React Native Developer** from Indonesia 🇮🇩
+A passionate **Full Stack Software Developer | Laravel Specialist | React & React Native Developer**
 
-💼 Full Stack Developer at **PT Abadi Sejahtera Finansindo**
-🚀 Experienced in building scalable web and mobile applications using Laravel, React.js, and React Native
-📱 Developed Customer Service ,Marketing platforms, Collection systems ,Company websites, and Mobile applications
-⚙️ Experienced with Redis Queue, RabbitMQ, REST API development, and Linux server deployment
-🌱 Currently learning **Go**, Software Architecture, and Distributed Systems
-🤝 Open to collaborating on any project even Open Source Projects
+
+Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
+
+- Experienced in building scalable web and mobile applications using Laravel, React.js, Next.js, and React Native
+- Developed Customer Service ,Marketing platforms, Collection systems ,Company websites, and Mobile applications
+- Experienced with Redis Queue, RabbitMQ, REST API development, and Linux server deployment
+- Currently learning **Go**, Software Architecture, and Distributed Systems
+- Open to collaborating on any project even Open Source Projects
 
 ---
 
-## 🌐 Socials
+# 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:fawwazbayureksa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel\&logoColor=white)](https://portofolio.fawwazbayureksa.xyz)
+<p align="left">
+
+<a href="https://portofolio.fawwazbayureksa.xyz">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:fawwazbayureksa@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -89,11 +103,9 @@ A passionate **Full Stack Software Developer | Laravel Specialist | React & Reac
 
 ### ✨ Favorite Quote
 
-> "First solve the problem, then write the code." – John Johnson
-> "Software is not just about writing code. It's about solving business problems with maintainable, scalable, and reliable solutions" - Unknown.
+- > "First solve the problem, then write the code." – John Johnson
+- > "Software is not just about writing code. It's about solving business problems with maintainable, scalable, and reliable solutions" - Unknown.
 
 ---
 
 ⭐ From [Fawwaz Bayureksa](https://github.com/fawazbayureksa)
-
-⭐ Building software, learning continuously, and sharing knowledge with the community.
