@@ -1,8 +1,8 @@
-# 💫 About Me
+# About Me
 
 <img src="./banner2.png" alt="Fawwaz Bayureksa" width="auto" style="border-radius:15px" />
 
-Hi 👋, I'm **Fawwaz Bayureksa**
+Hi, I'm **Fawwaz Bayureksa**
 A passionate **Full Stack Developer | Software Engineer | Laravel Specialist | React & React Native Developer | Front end Developer**
 
 
@@ -91,7 +91,7 @@ Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=fawazbayureksa\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
 
@@ -101,11 +101,11 @@ Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
 
 ---
 
-### ✨ Favorite Quote
+### Favorite Quote
 
 - > "First solve the problem, then write the code." – John Johnson
 - > "Software is not just about writing code. It's about solving business problems with maintainable, scalable, and reliable solutions" - Unknown.
 
 ---
 
-⭐ From [Fawwaz Bayureksa](https://github.com/fawazbayureksa)
+From [Fawwaz Bayureksa](https://github.com/fawazbayureksa)
