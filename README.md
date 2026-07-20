@@ -16,7 +16,7 @@ Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="left">
 
