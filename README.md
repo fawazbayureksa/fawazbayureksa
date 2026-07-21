@@ -36,7 +36,7 @@ Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Frontend
 
