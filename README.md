@@ -77,7 +77,7 @@ Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
 
 ---
 
-# 📈 Development Focus
+# Development Focus
 
 * Full Stack Development
 * RESTful API Design
