@@ -6,7 +6,7 @@ Hi, I'm **Fawwaz Bayureksa**
 A passionate **Full Stack Developer | Software Engineer | Laravel Specialist | React & React Native Developer | Front end Developer**
 
 
-Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
+Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansindo**
 
 - Experienced in building scalable web and mobile applications using Laravel, React.js, Next.js, and React Native
 - Developed Customer Service ,Marketing platforms, Collection systems ,Company websites, and Mobile applications
@@ -80,6 +80,7 @@ Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
 # Development Focus
 
 * Full Stack Development
+* Frontend Development
 * RESTful API Design
 * Scalable Laravel Applications
 * React & React Native Ecosystem
