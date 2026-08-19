@@ -92,7 +92,7 @@ Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansind
 
 ---
 
-# GitHub Stats
+# My GitHub Stats 
 
 ![](https://github-readme-stats.vercel.app/api?username=fawazbayureksa\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
 
