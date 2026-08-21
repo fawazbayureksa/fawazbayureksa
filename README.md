@@ -105,8 +105,6 @@ Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansind
 ### Favorite Quote
 - > "Do Your Best"
 - > "First solve the problem, then write the code." – John Johnson
-- > "Software is not just about writing code. It's about solving business problems with maintainable, scalable, and reliable solutions" - Unknown.
-
 ---
 
 From [Fawwaz Bayureksa](https://github.com/fawazbayureksa)
