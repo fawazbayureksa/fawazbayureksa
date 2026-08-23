@@ -81,6 +81,7 @@ Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansind
 
 * Full Stack Development
 * Frontend Development
+* Backend Development
 * RESTful API Design
 * Scalable Laravel Applications
 * React & React Native Ecosystem
