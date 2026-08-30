@@ -1,4 +1,4 @@
-# About Me
+# About
 
 <img src="./banner2.png" alt="Fawwaz Bayureksa" width="auto" style="border-radius:15px" />
 
@@ -90,6 +90,7 @@ Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansind
 * Software Architecture
 * Domain-Driven Design (DDD)
 * Clean Code & SOLID Principles
+* Deployment
 
 ---
 
