@@ -13,7 +13,7 @@ Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansind
 - Experienced with Redis Queue, RabbitMQ, REST API development, and Linux server deployment
 - Currently learning **Go**, Software Architecture, and Distributed Systems
 - Open to collaborating on any project even Open Source Projects
-
+- Open to any oportunity
 ---
 
 # Connect With Me
