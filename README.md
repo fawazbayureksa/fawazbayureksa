@@ -107,6 +107,4 @@ Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansind
 ### Favorite Quote
 - > "Do Your Best"
 - > "First solve the problem, then write the code." – John Johnson
----
-
 From [Fawwaz Bayureksa](https://github.com/fawazbayureksa)
