@@ -14,7 +14,6 @@ Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansind
 - Currently learning **Go**, Software Architecture, and Distributed Systems
 - Open to collaborating on any project even Open Source Projects
 - Open to new oportunity
----
 
 # Connect With Me
 
