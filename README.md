@@ -76,7 +76,7 @@ Tech Stack
 
 ---
 
-# Development Focus
+Development Focus
 
 * Full Stack Development
 * Frontend Development
@@ -90,10 +90,11 @@ Tech Stack
 * Domain-Driven Design (DDD)
 * Clean Code & SOLID Principles
 * Deployment
+* Software Development Life Cycle
 
 ---
 
-# My GitHub Stats 
+My GitHub Stats 
 
 ![](https://github-readme-stats.vercel.app/api?username=fawazbayureksa\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
 
