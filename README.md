@@ -2,7 +2,7 @@
 
 <img src="./banner2.png" alt="Fawwaz Bayureksa" width="auto" style="border-radius:15px" />
 
-Hi, I'm **Fawwaz Bayureksa**
+I'm **Fawwaz Bayureksa**
 A passionate **Full Stack Developer | Software Engineer | PHP Developer | React & React Native Developer | Front end Developer**
 
 Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansindo**
