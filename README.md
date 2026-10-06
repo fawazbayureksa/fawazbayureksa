@@ -14,7 +14,7 @@ Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansind
 - Open to collaborating on any project even Open Source Projects
 - Open to new oportunity
 
-Connect With Me Here
+Connect With Me
 
 <p align="left">
 
