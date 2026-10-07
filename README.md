@@ -72,10 +72,7 @@ Tech Stack
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge\&logo=jira\&logoColor=white)
 ![Jenkins]
 ![GoogleCloud]
-
-
----
-
+  
 Development Focus
 
 * Full Stack Development
