@@ -88,6 +88,7 @@ Development Focus
 * Clean Code & SOLID Principles
 * Deployment
 * Software Development Life Cycle
+* System Design
 
 ---
 
