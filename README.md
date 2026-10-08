@@ -1,22 +1,20 @@
-# 💫 About Me
+# About
 
 <img src="./banner2.png" alt="Fawwaz Bayureksa" width="auto" style="border-radius:15px" />
 
-Hi 👋, I'm **Fawwaz Bayureksa**
-A passionate **Full Stack Software Developer | Laravel Specialist | React & React Native Developer**
+I'm **Fawwaz Bayureksa**
+A passionate **Full Stack Developer | Software Engineer | PHP Developer | React & React Native Developer | Front end Developer**
 
-
-Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
+Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansindo**
 
 - Experienced in building scalable web and mobile applications using Laravel, React.js, Next.js, and React Native
 - Developed Customer Service ,Marketing platforms, Collection systems ,Company websites, and Mobile applications
 - Experienced with Redis Queue, RabbitMQ, REST API development, and Linux server deployment
 - Currently learning **Go**, Software Architecture, and Distributed Systems
 - Open to collaborating on any project even Open Source Projects
+- Open to new oportunity
 
----
-
-# 📫 Connect With Me
+Connect With Me
 
 <p align="left">
 
@@ -35,9 +33,7 @@ Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
 </p>
 
 ---
-
-# 💻 Tech Stack
-
+Tech Stack
 ### Frontend
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black)
@@ -74,12 +70,14 @@ Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge\&logo=jira\&logoColor=white)
-
----
-
-# 📈 Development Focus
+![Jenkins]
+![GoogleCloud]
+  
+Development Focus
 
 * Full Stack Development
+* Frontend Development
+* Backend Development
 * RESTful API Design
 * Scalable Laravel Applications
 * React & React Native Ecosystem
@@ -88,10 +86,13 @@ Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
 * Software Architecture
 * Domain-Driven Design (DDD)
 * Clean Code & SOLID Principles
+* Deployment
+* Software Development Life Cycle
+* System Design
 
 ---
 
-# 📊 GitHub Stats
+My GitHub Stats 
 
 ![](https://github-readme-stats.vercel.app/api?username=fawazbayureksa\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
 
@@ -101,11 +102,7 @@ Currently working as a **Full Stack Developer at PT Abadi Sejahtera Finansindo**
 
 ---
 
-### ✨ Favorite Quote
-
+### Favorite Quote
+- > "Do Your Best"
 - > "First solve the problem, then write the code." – John Johnson
-- > "Software is not just about writing code. It's about solving business problems with maintainable, scalable, and reliable solutions" - Unknown.
-
----
-
-⭐ From [Fawwaz Bayureksa](https://github.com/fawazbayureksa)
+From [Fawwaz Bayureksa](https://github.com/fawazbayureksa)
