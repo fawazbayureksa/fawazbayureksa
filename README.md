@@ -17,7 +17,6 @@ Currently working as a **SR Full Stack Developer at PT Abadi Sejahtera Finansind
 Connect With Me
 
 <p align="left">
-
 <a href="https://portofolio.fawwazbayureksa.xyz">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -29,10 +28,8 @@ Connect With Me
 <a href="mailto:fawwazbayureksa@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
----
 Tech Stack
 ### Frontend
 
